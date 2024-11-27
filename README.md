@@ -8,10 +8,10 @@ I am a second-year Computer Engineering student at University of Trento, passion
 - 🤖 Exploring Machine Learning with [scikit-learn](https://scikit-learn.org/)
 - 💻 Building Spring Boot applications with PostgreSQL
 
-Check out my [coding portfolio!](https://erikc-portfolio.vercel.app/)
+Check out my [coding portfolio!](link)
 
 ## 🌐 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wasifsomji/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](link)
 
 
 # 💻 Tech Stack:
