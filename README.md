@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm Sam Chhabra</h1>
 
 # 💫 About Me:
-I am a second-year Computer Engineering student at University of Trento, passionate about exploring the realms of software development, machine learning and building scalable software.
+I am a third-year Computer Engineering student at University of Trento, passionate about exploring the realms of software development, machine learning and building scalable software.
 
 ## 🚀 What I'm Up To
 
