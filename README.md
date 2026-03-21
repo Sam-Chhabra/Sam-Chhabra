@@ -8,10 +8,10 @@ I am a third-year Computer Engineering student at University of Trento, passiona
 - 🤖 Exploring Machine Learning with [scikit-learn](https://scikit-learn.org/)
 - 💻 Building Spring Boot applications with PostgreSQL
 
-Check out my [coding portfolio!](link)
+Check out my [coding portfolio!](https://sam-chhabra.vercel.app/)
 
 ## 🌐 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](link)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samchhabraa/)
 
 
 # 💻 Tech Stack:
@@ -35,4 +35,3 @@ Libraries/Frameworks:
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot) 
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
